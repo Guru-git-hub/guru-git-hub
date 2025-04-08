@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Guru
 
-<!--
-**Guru-git-hub/guru-git-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🔹 **PL/SQL Developer** with over 6 years of experience in SQL and PL/SQL development.  
+🔹 Currently working as an **Oracle Forms Developer** for the past 3 years.  
+🔹 Passionate about **Cloud infrastructure & big data** and aspiring to become a **Data Engineer**.
 
-Here are some ideas to get you started:
+## My Journey
+🚀 Started my career as a **Software Engineer** at Ivaan Technologies (2018-2021).  
+💼 Moved to **KGISL Technologies, Coimbatore** in 2021, where I currently work as an **Associate**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Expertise
+- 🛠 SQL | PL/SQL | Oracle Forms & Reports
+- ☁️ Azure Data Engineering (learning)
+- 🔄 Git | Version Control
+- 📊 Data Processing & Analysis
+
+## What I'm Working On
+🔹 Exploring **Azure Data Engineering** and AWS SQL services like **Amazon RDS & Aurora**.   
+
+## Let's Connect! 
+💬 Feel free to reach out for discussions on **PL/SQL, cloud technologies, or data engineering**.  
+📧 pgurusundarganesh@gmail.com
+
+---
+💡 "Continuous learning is the key to growth!"
