@@ -16,7 +16,7 @@
 - 📊 Data Processing & Analysis
 
 ## What I'm Working On
-🔹 Exploring **Azure Data Engineering** and AWS SQL services like **Amazon RDS & Aurora**.   
+🔹 Exploring **Azure Data Engineering**.   
 
 ## Let's Connect! 
 💬 Feel free to reach out for discussions on **PL/SQL, cloud technologies, or data engineering**.  
